@@ -1,7 +1,7 @@
-let eindGetal = parseInt(prompt("geef een eindgetal in:"));
+let eindGetal=parseInt(prompt("geef een getal in"))
 let i = 1;
 for(i;i<=eindGetal;i++){
-    console.log(`dit is nummer ${i}`);
+    console.log(`dis is jow nummers ${i}`);
 }
 //let eindGetal = parseInt(prompt("geef een eindgetal in:"));
 /*

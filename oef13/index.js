@@ -11,4 +11,3 @@ if(nummer%3===0 && nummer%5===0){
 }else{
     console.log(`${nummer} is niet deelbaar door 3 of 5`);
 }
-
