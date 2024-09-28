@@ -11,3 +11,12 @@ let eindGetal=parseInt(prompt("dit is hier jouw eindgetal:")) // ook het eingeta
 for (let i=1; i <= eindGetal; i++){
     console.log(`${tafel} x ${i} = ${tafel * i}`);
 }
+
+// andere manier om dit te doen
+let number=parseInt(prompt("Voer een getal in:"));
+for (let i = 1; i <= 10; i++){
+    console.log(number * i)
+}
+
+//Eerst wordt een getal gevraagdt aan de gebruiker via prompt. De loop
+//Vermenigvuldigt dit getal met elke waarde van i van 1 tot 10 oom de tafel van het getal te tonen.

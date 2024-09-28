@@ -1,6 +1,4 @@
-
-let eindGetal = parseInt(prompt("geef een eindgetal in:"));
-let i=eindGetal;
-for(i;i > 0;i--) {
-    console.log(`dit is nummer ${i}`);
-}
+for (let i = 10; i >= 1; i--){
+    console.log(i);
+}£
+// Hizr begint de loop bij 10 en vermindert i elke keer met 1 todat het gelijk is aan 1

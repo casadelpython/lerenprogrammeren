@@ -20,3 +20,5 @@ console.log(product); // Dit geeft 120
 // 3.We definiëren een variabele i die begint bij 1.
 // 3.De loop blijft doorgaan zolang i kleiner dan of gelijk aan 5 is.
 // 3. Na elke iteratie wordt i met 1 verhoogd (i++).
+
+// het product wordt berekend door elke iteratie get i te vermenigvuldigen met de varaible  product.
